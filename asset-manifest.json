@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/manga-ai/static/css/main.2f1f388d.css",
+    "main.js": "/manga-ai/static/js/main.f0d06596.js",
+    "static/js/453.11c4d2b0.chunk.js": "/manga-ai/static/js/453.11c4d2b0.chunk.js",
+    "static/media/showcase.jpeg": "/manga-ai/static/media/showcase.6bd396106679a906b8f6.jpeg",
+    "index.html": "/manga-ai/index.html",
+    "main.2f1f388d.css.map": "/manga-ai/static/css/main.2f1f388d.css.map",
+    "main.f0d06596.js.map": "/manga-ai/static/js/main.f0d06596.js.map",
+    "453.11c4d2b0.chunk.js.map": "/manga-ai/static/js/453.11c4d2b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f1f388d.css",
+    "static/js/main.f0d06596.js"
+  ]
+}
